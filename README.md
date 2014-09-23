@@ -5,7 +5,7 @@ Useful-Links
 
 2.Audio Demo: http://mobile.51cto.com/iphone-374056.htm
 
-3. iOS 开发者必知的 75 个工具（译文）: http://www.cocoachina.com/industry/20130827/6876.html
+3.iOS 开发者必知的 75 个工具（译文）: http://www.cocoachina.com/industry/20130827/6876.html
 
 4.crash log analysis：http://www.raywenderlich.com/zh-hans/30818/ios%E5%BA%94%E7%94%A8%E5%B4%A9%E6%BA%83%E6%97%A5%E5%BF%97%E6%8F%AD%E7%A7%98
 
@@ -14,8 +14,13 @@ Useful-Links
 6.app 逆向：http://security.ios-wiki.com/
 
 7.apple：
+
 （1）xcode download：https://developer.apple.com/downloads/index.action?q=xcode#
+
 （2）Worldwide Telephone Support link: https://developer.apple.com/contact/phone.php
+
  (3) The Swift Programming Language: https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11
+ 
  (4) apple Sample Code: https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code
+ 
  (5) Apple Developer Support: https://developer.apple.com/support/appstore/
