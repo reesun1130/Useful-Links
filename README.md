@@ -15,12 +15,14 @@ Useful-Links
 
 7.apple：
 
-（1）xcode download：https://developer.apple.com/downloads/index.action?q=xcode#
+ (1) xcode download：https://developer.apple.com/downloads/index.action?q=xcode#
 
-（2）Worldwide Telephone Support link: https://developer.apple.com/contact/phone.php
+ (2) Worldwide Telephone Support link: https://developer.apple.com/contact/phone.php
 
  (3) The Swift Programming Language: https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11
  
  (4) apple Sample Code: https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code
  
  (5) Apple Developer Support: https://developer.apple.com/support/appstore/
+ 
+ (6) apple news: https://developer.apple.com/news/
