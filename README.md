@@ -26,3 +26,5 @@ Useful-Links
  (5) Apple Developer Support: https://developer.apple.com/support/appstore/
  
  (6) apple news: https://developer.apple.com/news/
+
+8.删除指定目录下.svn文件 find YanTiKu1.1.0/ -name .svn |xargs rm -rf
