@@ -29,4 +29,4 @@ Useful-Links
 
 8.删除指定目录下.svn文件 find YanTiKu1.1.0/ -name .svn |xargs rm -rf
 
-#9.opencore-amr:http://sourceforge.net/projects/opencore-amr/files/opencore-amr/
+9.opencore-amr:http://sourceforge.net/projects/opencore-amr/files/opencore-amr/
