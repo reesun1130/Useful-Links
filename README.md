@@ -30,3 +30,25 @@ Useful-Links
 8.删除指定目录下.svn文件 find YanTiKu1.1.0/ -name .svn |xargs rm -rf
 
 9.opencore-amr:http://sourceforge.net/projects/opencore-amr/files/opencore-amr/
+
+10.从Images.xcassets 读取Launch和icon图片
+###/*
+     LaunchImage-568h@2x.png
+     LaunchImage-700-568h@2x.png
+     LaunchImage-700-Landscape@2x~ipad.png
+     LaunchImage-700-Landscape~ipad.png
+     LaunchImage-700-Portrait@2x~ipad.png
+     LaunchImage-700-Portrait~ipad.png
+     LaunchImage-700@2x.png
+     LaunchImage-Landscape@2x~ipad.png
+     LaunchImage-Landscape~ipad.png
+     LaunchImage-Portrait@2x~ipad.png
+     LaunchImage-Portrait~ipad.png
+     LaunchImage.png
+     LaunchImage@2x.png
+###*/
+
+###/*
+与launch读取同理，可查看cotents.json文件
+###*/
+
