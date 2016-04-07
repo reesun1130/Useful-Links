@@ -15,7 +15,7 @@ Useful-Links
 
 7.apple：
 
- (1) xcode download：https://developer.apple.com/downloads/index.action?q=xcode#
+ (1) xcode download：https://developer.apple.com/downloads/?q=xcode
 
  (2) Worldwide Telephone Support link: https://developer.apple.com/contact/phone.php
 
